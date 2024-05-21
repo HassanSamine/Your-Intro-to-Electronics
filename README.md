@@ -1,3 +1,5 @@
+For a better learning experience go to: https://glittery-uranium-0a8.notion.site/Your-Introduction-to-Electronics-75c5897a904a462db2cc0dfe93eb1033?pvs=74
+
 Welcome to Your Introduction to Electronics course! The goal of this course is to provide you with a foundational understanding of electrical  principles, providing you with a basic knowledge to understand and analyze electronic systems.
 
 ### **Course Overview:**
